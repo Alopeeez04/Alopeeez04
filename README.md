@@ -16,8 +16,6 @@
 
 ✔️ I value teamwork and collaboration, often working with interdisciplinary teams combining biology, informatics, and statistics.
 
-✔️ I use agile and SCRUM methodologies to plan and manage research projects effectively, ensuring clear objectives and continuous improvement.
-
 ✔️ I’m motivated by the idea of bridging the gap between wet-lab experiments and computational analysis, contributing to translational bioinformatics and healthcare innovation.
 
 ---
