@@ -64,4 +64,3 @@
 
 ---
 
-⭐ *“Exploring the intersection between biology and technology to unlock insights that matter.”*  
